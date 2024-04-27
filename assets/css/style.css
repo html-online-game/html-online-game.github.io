@@ -189,7 +189,9 @@ nav a:hover {
   text-align: center;
 }
 
-.play-game div {
+.play-game a {
+  color: #fff;
+  text-decoration: none;
   margin: auto;
   display: inline-block;
   background-color: #ff6b6b;
@@ -199,13 +201,8 @@ nav a:hover {
   cursor: pointer;
 }
 
-.play-game div:hover {
+.play-game a:hover {
   background-color: #a14040;
-}
-
-.play-game a {
-  color: #fff;
-  text-decoration: none;
 }
 
 footer {
