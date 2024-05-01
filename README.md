@@ -10,7 +10,7 @@ This repository contains a  HTML online game designed to showcase how to use HTM
 ## How to Play the Game
 
 You can play game by access url:
-[https://html-online-game.github.io/html-online-game/](https://html-online-game.github.io/html-online-game/)
+[https://html-online-game.github.io/](https://html-online-game.github.io)
 
 If you find any issues or have any improvement ideas, we welcome your contributions! You can:
 
