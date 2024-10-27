@@ -15,6 +15,7 @@ body {
   padding: 0;
   background-color: #1a1a1a;
   color: #fff;
+  height: 100vh;
 }
 
 header {
@@ -122,6 +123,20 @@ footer {
   color: #fff;
   padding: 10px;
   text-align: center;
+}
+
+.not-found-container{
+  margin:3em;
+  text-align:center;
+  font-size:2em;
+  height: 100%;
+}
+
+.policy-container {
+  margin:3em;
+  text-align:left;
+  font-size:1.5em;
+  height: 100%;
 }
 
 @media screen and (max-width: 768px) {
