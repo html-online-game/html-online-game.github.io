@@ -45,14 +45,13 @@ nav a:hover {
 }
 
 .game-container {
-  width: 80%;
-  padding: 0 20px;
+  width: 60%;
   margin: 10px auto;
 }
 
 .game-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   grid-gap: 40px;
 }
 
@@ -84,12 +83,13 @@ nav a:hover {
 }
 .game-info h3 {
   margin-top: 0;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .game-info p {
   margin: 0;
   width: 100%;
-  white-space: nowrap;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -125,22 +125,48 @@ footer {
   text-align: center;
 }
 
-.not-found-container{
-  margin:3em;
-  text-align:center;
-  font-size:2em;
+.not-found-container {
+  margin: 3em;
+  text-align: center;
+  font-size: 2em;
   height: 100%;
 }
 
 .policy-container {
-  margin:3em;
-  text-align:left;
-  font-size:1.5em;
+  margin: 3em;
+  text-align: left;
+  font-size: 1.5em;
   height: 100%;
 }
 
-@media screen and (max-width: 768px) {
+
+@media (max-width: 1920px) {
+  .game-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .game-container {
+    width: 75%;
+    margin: 0 auto 10px;
+  }
+}
+
+
+@media (max-width: 1366px) {
+  .game-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .game-container {
+    width: 75%;
+    margin: 0 auto 10px;
+  }
+}
+
+@media (max-width: 720px) {
   .game-list {
     grid-template-columns: 1fr;
+  }
+  .game-container {
+    width: 80%;
+    margin: 0 auto 10px;
   }
 }
