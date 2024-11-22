@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         card.innerHTML = `<img src="assets/images/${game.id}.png" alt="${game.name}" loading="lazy" />
                             <div class="game-info">
                                 <h3>${game.name}</h3>
-                                <p title="${game.description}">
+                                <p class="line-clamp-2" title="${game.description}">
                                     ${game.description}
                                 </p>
                             </div>

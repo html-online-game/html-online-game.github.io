@@ -90,11 +90,13 @@ nav a:hover {
 .game-info p {
   margin: 0;
   width: 100%;
-  white-space: nowrap;
+}
+
+.line-clamp-2 {
   overflow: hidden;
-  text-overflow: ellipsis;
-  -webkit-text-overflow: ellipsis;
-  -o-text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 .play-game {
@@ -139,7 +141,6 @@ footer {
   height: 100%;
 }
 
-
 @media (max-width: 1920px) {
   .game-list {
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -149,7 +150,6 @@ footer {
     margin: 0 auto 10px;
   }
 }
-
 
 @media (max-width: 1366px) {
   .game-list {
