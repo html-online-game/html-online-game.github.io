@@ -49,6 +49,10 @@ nav a:hover {
   margin: 10px auto;
 }
 
+.ad-container{
+  margin: 1rem 0;
+}
+
 .game-list {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
