@@ -1,5 +1,25 @@
 [
   {
+    "id": "stickman-hook",
+    "name": "Stickman Hook",
+    "description": "Stickman Hook is a game where you control a stickman who can hook objects and swing them to clear obstacles."
+  },
+  {
+    "id": "adventure-drivers",
+    "name": "Adventure Drivers",
+    "description": "Adventure Drivers is a racing game where you drive through different tracks and collect coins."
+  },
+  {
+    "id": "drive-mad",
+    "name": "Drive Mad",
+    "description": "Drive Mad is a car game where you drive on a track filled with obstacles. Your aim is to reach the finish line in one piece."
+  },
+  {
+    "id": "roper",
+    "name": "Roper",
+    "description": "Roper is a fun and addictive endless runner game where you control a character who can jump, slide, and roll to avoid obstacles and collect coins."
+  },
+  {
     "id": "subway-surfers",
     "name": "Subway Surfers",
     "description": "Subway Surfers is a fun and addictive endless runner game where you play as a train robber trying to escape from the police. You control a character who can jump, slide, and perform various tricks to avoid obstacles and catch the train. The game features colorful graphics, catchy music, and a variety of levels and challenges to keep you entertained for hours."
