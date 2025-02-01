@@ -1,5 +1,10 @@
 [
   {
+    "id": "papa-cherry-saga",
+    "name": "Papa Cherry Saga",
+    "description": "The goal of Papa Cherry is to collect a certain number of desserts in each level."
+  },
+  {
     "id": "park-out",
     "name": "Park Out",
     "description": "Park Out is a game where you control a car and try to drive out of park."
