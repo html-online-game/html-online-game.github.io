@@ -51,8 +51,7 @@ nav a:hover {
 
 .ad-container {
   margin: 1rem 0;
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .game-list {
