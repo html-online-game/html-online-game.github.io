@@ -1,5 +1,10 @@
 [
   {
+    "id": "super-mario-wonder",
+    "name": "super-mario-wonder",
+    "description": "super-mario-wonder is a classic platformer game where you control a character who can jump, run, and collect coins to reach the end of the level. The game features colorful graphics, catchy music, and a variety of levels and challenges to keep you entertained for hours."
+  },
+  {
     "id": "papa-cherry-saga",
     "name": "Papa Cherry Saga",
     "description": "The goal of Papa Cherry is to collect a certain number of desserts in each level."
