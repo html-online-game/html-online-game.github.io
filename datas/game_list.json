@@ -15,6 +15,11 @@
     "description": "Park Out is a game where you control a car and try to drive out of park."
   },
   {
+    "id": "chicken-merge",
+    "name": "Chicken Merge",
+    "description": "Chicken Merge is a game where you combine chickens to create new breeds and expand your farm."
+  },
+  {
     "id": "stickman-hook",
     "name": "Stickman Hook",
     "description": "Stickman Hook is a game where you control a stickman who can hook objects and swing them to clear obstacles."
