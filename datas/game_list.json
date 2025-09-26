@@ -39,10 +39,20 @@
     "name": "Moto X3M Spooky Land",
     "description": "Moto X3M Spooky Land is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
   },
+  { 
+    "id": "ball-sort-halloween",
+    "name": "Ball Sort Halloween",
+    "description": "Ball Sort Halloween is a fun and challenging puzzle game where you need to sort balls of different colors and shapes into the correct bins. The game features a Halloween theme with spooky characters and music."
+  },
+  {
+    "id": "ball-sort-soccer",
+    "name": "ball-sort-soccer",
+    "description": "Ball Sort Soccer is a fun and challenging puzzle game where you need to sort balls of different colors and shapes into the correct bins. The game features a soccer theme with football players and music."
+  },
   {
     "id": "super-mario-wonder",
     "name": "Super Mario Wonder",
-    "description": "super-mario-wonder is a classic platformer game where you control a character who can jump, run, and collect coins to reach the end of the level. The game features colorful graphics, catchy music, and a variety of levels and challenges to keep you entertained for hours."
+    "description": "super mario wonder is a classic platformer game where you control a character who can jump, run, and collect coins to reach the end of the level. The game features colorful graphics, catchy music, and a variety of levels and challenges to keep you entertained for hours."
   },
   {
     "id": "papa-cherry-saga",
