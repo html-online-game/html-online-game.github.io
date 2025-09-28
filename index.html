@@ -4,8 +4,14 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name="description" content="Online Game Site" />
-    <meta name="keywords" content="game, online, site" />
+    <meta
+      name="description"
+      content="Online Game Site - Play the best online games for free!"
+    />
+    <meta
+      name="keywords"
+      content="game, online, site, free games, arcade, puzzle, action"
+    />
     <meta name="author" content="Seiri" />
     <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#1a1a1a" />
@@ -35,36 +41,91 @@
       gtag("config", "G-PF5LNZJYLL");
     </script>
     <script type="text/javascript" src="assets/js/script.js"></script>
-    <title>Online Game Site</title>
+    <title>Online Game Site - Play Free Games Online</title>
   </head>
   <body>
     <header>
-      <h1>Online Game Site</h1>
-    </header>
-    <nav>
-      <a href="https://html-online-game.github.io/">Home</a>
-      <a href="https://html-online-game.github.io/policy.html">Policy</a>
-    </nav>
-    <main class="game-container">
-      <h2>All Games</h2>
-      <!-- html-online-game-list-ad -->
-      <div class="ad-container">
-        <ins
-          class="adsbygoogle"
-          style="display: block"
-          data-ad-client="ca-pub-4988552421895566"
-          data-ad-slot="2343374539"
-          data-ad-format="auto"
-          data-full-width-responsive="true"
-        ></ins>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+      <div class="container">
+        <div class="header-content">
+          <h1>🎮 Online Game Site</h1>
+          <button class="menu-toggle" id="menuToggle">
+            <span class="hamburger">☰</span>
+          </button>
+          <nav id="mobileNav">
+            <a href="https://html-online-game.github.io/">🏠 Home</a>
+            <a
+              href="https://html-online-game.github.io/policy.html"
+              class="active"
+              >📋 Policy</a
+            >
+          </nav>
+        </div>
       </div>
-      <div class="game-list"></div>
-    </main>
+    </header>
+
+    <div class="container">
+      <div class="main-layout">
+        <!-- Main Game Container -->
+        <main class="game-container">
+          <h2>Game Collection</h2>
+
+          <!-- Game Categories Filter -->
+          <div class="category-filter" id="categoryFilter">
+            <!-- Categories will be loaded dynamically -->
+            <div class="loading">
+              <div class="spinner"></div>
+            </div>
+          </div>
+
+          <!-- Content Ad -->
+          <div class="ad-container">
+            <ins
+              class="adsbygoogle"
+              style="display: block"
+              data-ad-client="ca-pub-4988552421895566"
+              data-ad-slot="2343374539"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
+            ></ins>
+            <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+          </div>
+
+          <!-- Game Count Display -->
+          <div class="game-count">
+            <span id="gameCount">0</span> games available
+          </div>
+
+          <!-- Game List -->
+          <div class="game-list" id="gameList">
+            <div class="loading">
+              <div class="spinner"></div>
+              <p>Loading games...</p>
+            </div>
+          </div>
+
+          <!-- Mid-content Ad -->
+          <div class="ad-container">
+            <ins
+              class="adsbygoogle"
+              style="display: block"
+              data-ad-client="ca-pub-4988552421895566"
+              data-ad-slot="9336691129"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
+            ></ins>
+            <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+          </div>
+        </main>
+      </div>
+    </div>
     <footer>
-      <p>&copy; 2025 Online Game Site. All rights reserved.</p>
+      <div class="container">
+        <p>&copy; 2025 Online Game Site. All rights reserved.</p>
+      </div>
     </footer>
   </body>
 </html>

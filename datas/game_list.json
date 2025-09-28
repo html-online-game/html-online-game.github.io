@@ -1,212 +1,266 @@
-[
-  {
-    "id": "super-liquid-soccer",
-    "name": "Super Liquid Soccer",
-    "description": "Super Liquid Soccer is an exciting and fast-paced soccer game that combines traditional soccer gameplay with unique liquid physics. Players can control a team of liquid-like characters, each with their own special abilities, to compete in thrilling matches against opponents. The game features vibrant graphics, intuitive controls, and a variety of game modes to keep players entertained for hours."
-  },
-  {
-    "id": "blumgi-slime",
-    "name": "Blumgi Slime",
-    "description": "Blumgi Slime is a fast-paced, action-packed game where you control a slime-like creature that must navigate through a variety of levels filled with obstacles and enemies. Collect power-ups and weapons to help you defeat your foes and reach the end of each level."
-  },
-  {
-    "id": "bobThe-robber-2",
-    "name": "BobThe Robber 2",
-    "description": "Bob The Robber 2 is a stealth action game where you play as Bob, a skilled thief who must navigate through various levels filled with guards, cameras, and other obstacles to steal valuable items. Use your wits and gadgets to avoid detection and complete your heists."
-  },
-  {
-    "id": "moto-x3m",
-    "name": "Moto X3M",
-    "description": "Moto X3M is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
-  },
-  {
-    "id": "moto-x3m-2",
-    "name": "Moto X3M 2",
-    "description": "Moto X3M 2 is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
-  },
-  {
-    "id": "moto-x3m-4-winter",
-    "name": "Moto X3M Winter",
-    "description": "Moto X3M Winter is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
-  },
-  {
-    "id": "moto-x3m-5-pool-party",
-    "name": "Moto X3M Pool party",
-    "description": "Moto X3M Pool party is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
-  },
-  {
-    "id": "moto-x3m-6-spooky-land",
-    "name": "Moto X3M Spooky Land",
-    "description": "Moto X3M Spooky Land is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
-  },
-  { 
-    "id": "ball-sort-halloween",
-    "name": "Ball Sort Halloween",
-    "description": "Ball Sort Halloween is a fun and challenging puzzle game where you need to sort balls of different colors and shapes into the correct bins. The game features a Halloween theme with spooky characters and music."
-  },
-  {
-    "id": "ball-sort-soccer",
-    "name": "ball-sort-soccer",
-    "description": "Ball Sort Soccer is a fun and challenging puzzle game where you need to sort balls of different colors and shapes into the correct bins. The game features a soccer theme with football players and music."
-  },
-  {
-    "id": "super-mario-wonder",
-    "name": "Super Mario Wonder",
-    "description": "super mario wonder is a classic platformer game where you control a character who can jump, run, and collect coins to reach the end of the level. The game features colorful graphics, catchy music, and a variety of levels and challenges to keep you entertained for hours."
-  },
-  {
-    "id": "papa-cherry-saga",
-    "name": "Papa Cherry Saga",
-    "description": "The goal of Papa Cherry is to collect a certain number of desserts in each level."
-  },
-  {
-    "id": "park-out",
-    "name": "Park Out",
-    "description": "Park Out is a game where you control a car and try to drive out of park."
-  },
-  {
-    "id": "chicken-merge",
-    "name": "Chicken Merge",
-    "description": "Chicken Merge is a game where you combine chickens to create new breeds and expand your farm."
-  },
-  {
-    "id": "stickman-hook",
-    "name": "Stickman Hook",
-    "description": "Stickman Hook is a game where you control a stickman who can hook objects and swing them to clear obstacles."
-  },
-  {
-    "id": "adventure-drivers",
-    "name": "Adventure Drivers",
-    "description": "Adventure Drivers is a racing game where you drive through different tracks and collect coins."
-  },
-  {
-    "id": "drive-mad",
-    "name": "Drive Mad",
-    "description": "Drive Mad is a car game where you drive on a track filled with obstacles. Your aim is to reach the finish line in one piece."
-  },
-  {
-    "id": "roper",
-    "name": "Roper",
-    "description": "Roper is a fun and addictive endless runner game where you control a character who can jump, slide, and roll to avoid obstacles and collect coins."
-  },
-  {
-    "id": "subway-surfers",
-    "name": "Subway Surfers",
-    "description": "Subway Surfers is a fun and addictive endless runner game where you play as a train robber trying to escape from the police. You control a character who can jump, slide, and perform various tricks to avoid obstacles and catch the train. The game features colorful graphics, catchy music, and a variety of levels and challenges to keep you entertained for hours."
-  },
-  {
-    "id": "ball-sort-puzzle",
-    "name": "Ball Sort Puzzle",
-    "description": "Ball Sort Puzzle is a challenging and addictive puzzle game where you have to sort balls of different colors into the correct order. You can move the balls around using the arrow keys and have to think strategically to solve the puzzle. The game features a variety of levels and challenges to keep you entertained for hours."
-  },
-  {
-    "id": "8ball-pool",
-    "name": "8 Ball Pool",
-    "description": "8 Ball Pool is a billiards game played on a rectangular table with six pockets (four corners and two sides) and 16 balls: one cue ball (white) and 15 object balls, including seven solid-colored balls (numbered 1-7), seven striped balls (numbered 9-15), and the black 8 ball.."
-  },
-  {
-    "id": "awesome-tanks2",
-    "name": "Awesome Tanks 2",
-    "description": "Awesome Tanks 2 is a tank battle game where you control a tank and have to destroy the enemy tanks by shooting them. The game features a variety of tanks with different weapons and abilities, and you can customize your tank with various upgrades. The game also features a variety of levels and challenges to keep you entertained for hours."
-  },
-  {
-    "id": "ballistic",
-    "name": "Ballistic",
-    "description": "Ballistic is a puzzle game where you have to think strategically to solve the puzzle. You control a ball and have to guide it through a series of obstacles to reach the goal. The game features a variety of levels and challenges to keep you entertained for hours."
-  },
-  {
-    "id": "basket-and-ball",
-    "name": "Basket and Ball",
-    "description": "Basket and Ball is a sports game where you have to shoot the ball into the basket. The game features a variety of levels and challenges to keep you entertained for hours."
-  },
-  {
-    "id": "biker-street",
-    "name": "Biker Street",
-    "description": "Bike Fighting Stunt Highway Game is a 3D motorcycle racing game with intense battles, challenging tracks, and power-ups."
-  },
-  {
-    "id": "swingo",
-    "name": "SwinGo",
-    "description": "Swingo is an arcade game that combines the platform and action genres into one fun package. You control a cute bouncy character that can only move around using a grappling hook."
-  },
-  {
-    "id": "3pandas-in-japan",
-    "name": "3 Pandas in Japan",
-    "description": "The Pandas are back are ready to escape another beautiful country.Help the pandas escape from Japan in one piece."
-  },
-  {
-    "id": "wiggle",
-    "name": "Wiggle",
-    "description": "You are a tiny worm. Well, not really, but in Wiggle you play as a cute little invertebrate who is fleeing from the flood and has to cover as much distance as possible. And as if life isn't hard enough already, there are many dangerous obstacles on your way."
-  },
-  {
-    "id": "hoop-royale",
-    "name": "Hoop Royale",
-    "description": "Hoop Royale is a casual, physics-based arcade game where the primary objective is to successfully throw a hoop around a moving ball, essentially hooping it, by strategically aiming and timing your throws to score points; the game often features a competitive multiplayer mode where players try to outscore each other by making the most hoops within a set time limit."
-  },
-  {
-    "id": "flappy-bird",
-    "name": "Flappy Bird",
-    "description": "Flappy Bird is an arcade-style game in which the player controls the bird Faby, which moves persistently to the right. The player is tasked with navigating Faby through pairs of pipes that have equally sized gaps placed at random heights. Faby automatically descends and only ascends when the player taps the touchscreen. Each successful pass through a pair of pipes awards the player one point. Colliding with a pipe or the ground ends the gameplay. During the game over screen, the player is awarded a bronze medal if they reached ten or more points, a silver medal from twenty points, a gold medal from thirty points, and a platinum medal from forty points."
-  },
-  {
-    "id": "minecraft",
-    "name": "Minecraft",
-    "description": "Minecraft is a 3D sandbox game that has no required goals to accomplish, allowing players a large amount of freedom in choosing how to play the game. However, there is an achievement system, known as 'advancements' in the Java Edition of the game, 'trophies' on the PlayStation ports, and 'achievements' in Bedrock Edition and the Xbox ports."
-  },
-  {
-    "id": "bomberman",
-    "name": "Bomberman",
-    "description": "Bomberman is a multiplayer action game in which players control characters that drop bombs to destroy walls and other players. The game is known for its simple gameplay and fast-paced action. Players can also create custom maps and share them with others."
-  },
-  {
-    "id": "arcade-car-racing",
-    "name": "Arcade Car Racing",
-    "description": "Arcade Car Racing Game is a classic car racing game that features fast-paced gameplay and a variety of different tracks to choose from. Players can compete against the computer or other players online, and the game includes a variety of different cars to choose from. The game is known for its simple controls and addictive gameplay."
-  },
-  {
-    "id": "ultimate-car-driving",
-    "name": "Ultimate Car Driving",
-    "description": "Ultimate Car Driving is a racing game that features a variety of different cars and tracks to choose from. Players can compete against the computer or other players online, and the game includes a variety of different cars to choose from. The game is known for its realistic graphics and realistic physics."
-  },
-  {
-    "id": "extreme-motorbike-driving",
-    "name": "Extreme Motorbike Driving",
-    "description": "Extreme Motorbike Driving is a racing game that features a variety of different motorbikes and tracks to choose from. Players can compete against the computer or other players online, and the game includes a variety of different motorbikes to choose from. The game is known for its realistic graphics and realistic physics."
-  },
-  {
-    "id": "1v1.lol",
-    "name": "1v1.lol",
-    "description": "1v1.lol is a multiplayer online battle arena game that features two players competing against each other in a variety of different game modes. Players can choose from a variety of different champions to play as, and the game includes a variety of different maps to choose from. The game is known for its fast-paced gameplay and competitive nature."
-  },
-  {
-    "id": "2048",
-    "name": "2048",
-    "description": "2048 is a puzzle game that involves combining numbers on a grid to reach the number 2048. Players can swipe the screen to move the numbers around, and the game includes a variety of different levels to choose from. The game is known for its simple gameplay and addictive nature."
-  },
-  {
-    "id": "among-us",
-    "name": "Among Us",
-    "description": "Among Us is a social deduction game that involves players working together to complete tasks while one or more impostors try to sabotage the crew. Players can choose from a variety of different characters to play as, and the game includes a variety of different maps to choose from. The game is known for its fast-paced gameplay and competitive nature."
-  },
-  {
-    "id": "pacman",
-    "name": "Pacman",
-    "description": "Pacman is a classic arcade game that involves the player controlling a character who must eat dots while avoiding ghosts. Players can choose from a variety of different levels to play, and the game includes a variety of different power-ups to use. The game is known for its simple gameplay and addictive nature."
-  },
-  {
-    "id": "minesweeper",
-    "name": "Minesweeper",
-    "description": "Minesweeper is a classic puzzle game that involves the player finding hidden mines on a grid. Players can choose from a variety of different levels to play, and the game includes a variety of different difficulty levels. The game is known for its simple gameplay and addictive nature."
-  },
-  {
-    "id": "z-type",
-    "name": "Z-Type",
-    "description": "Z-Type is a classic shoot 'em up arcade game that involves the player controlling a spaceship and shooting down enemies. Players can choose from a variety of different levels to play, and the game includes a variety of different power-ups to use. The game is known for its fast-paced gameplay and addictive nature."
-  },
-  {
-    "id": "red-alert2",
-    "name": "Red Alert 2",
-    "description": "Red Alert 2 is a real-time strategy game that involves the player commanding a military force to defend their country from enemy invasion. Players can choose from a variety of different levels to play, and the game includes a variety of different units and weapons to use. The game is known for its complex gameplay and addictive nature."
-  }
-]
+{
+  "categories": [
+    { "id": "all", "name": "All Games", "icon": "🎮" },
+    { "id": "action", "name": "Action", "icon": "⚔️" },
+    { "id": "puzzle", "name": "Puzzle", "icon": "🧩" },
+    { "id": "racing", "name": "Racing", "icon": "🏎️" },
+    { "id": "adventure", "name": "Adventure", "icon": "🌟" },
+    { "id": "arcade", "name": "Arcade", "icon": "🕹️" },
+    { "id": "sports", "name": "Sports", "icon": "⚽" },
+    { "id": "strategy", "name": "Strategy", "icon": "🧠" }
+  ],
+  "games": [
+    {
+      "id": "super-liquid-soccer",
+      "name": "Super Liquid Soccer",
+      "category": "sports",
+      "description": "Super Liquid Soccer is an exciting and fast-paced soccer game that combines traditional soccer gameplay with unique liquid physics. Players can control a team of liquid-like characters, each with their own special abilities, to compete in thrilling matches against opponents. The game features vibrant graphics, intuitive controls, and a variety of game modes to keep players entertained for hours."
+    },
+    {
+      "id": "blumgi-slime",
+      "name": "Blumgi Slime",
+      "category": "adventure",
+      "description": "Blumgi Slime is a fast-paced, action-packed game where you control a slime-like creature that must navigate through a variety of levels filled with obstacles and enemies. Collect power-ups and weapons to help you defeat your foes and reach the end of each level."
+    },
+    {
+      "id": "bobThe-robber-2",
+      "name": "BobThe Robber 2",
+      "category": "action",
+      "description": "Bob The Robber 2 is a stealth action game where you play as Bob, a skilled thief who must navigate through various levels filled with guards, cameras, and other obstacles to steal valuable items. Use your wits and gadgets to avoid detection and complete your heists."
+    },
+    {
+      "id": "moto-x3m",
+      "name": "Moto X3M",
+      "category": "racing",
+      "description": "Moto X3M is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
+    },
+    {
+      "id": "moto-x3m-2",
+      "name": "Moto X3M 2",
+      "category": "racing",
+      "description": "Moto X3M 2 is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
+    },
+    {
+      "id": "moto-x3m-4-winter",
+      "name": "Moto X3M Winter",
+      "category": "racing",
+      "description": "Moto X3M Winter is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
+    },
+    {
+      "id": "moto-x3m-5-pool-party",
+      "name": "Moto X3M Pool party",
+      "category": "racing",
+      "description": "Moto X3M Pool party is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
+    },
+    {
+      "id": "moto-x3m-6-spooky-land",
+      "name": "Moto X3M Spooky Land",
+      "category": "racing",
+      "description": "Moto X3M Spooky Land is a thrilling motocross racing game that challenges players to navigate through a series of obstacle-filled tracks. Players can perform stunts, jumps, and flips while trying to reach the finish line as quickly as possible. The game features multiple levels with increasing difficulty, and players can unlock new bikes and upgrades as they progress."
+    },
+    {
+      "id": "ball-sort-halloween",
+      "name": "Ball Sort Halloween",
+      "category": "puzzle",
+      "description": "Ball Sort Halloween is a fun and challenging puzzle game where you need to sort balls of different colors and shapes into the correct bins. The game features a Halloween theme with spooky characters and music."
+    },
+    {
+      "id": "ball-sort-soccer",
+      "name": "ball-sort-soccer",
+      "category": "puzzle",
+      "description": "Ball Sort Soccer is a fun and challenging puzzle game where you need to sort balls of different colors and shapes into the correct bins. The game features a soccer theme with football players and music."
+    },
+    {
+      "id": "super-mario-wonder",
+      "name": "Super Mario Wonder",
+      "category": "arcade",
+      "description": "super mario wonder is a classic platformer game where you control a character who can jump, run, and collect coins to reach the end of the level. The game features colorful graphics, catchy music, and a variety of levels and challenges to keep you entertained for hours."
+    },
+    {
+      "id": "papa-cherry-saga",
+      "name": "Papa Cherry Saga",
+      "category": "puzzle",
+      "description": "The goal of Papa Cherry is to collect a certain number of desserts in each level."
+    },
+    {
+      "id": "park-out",
+      "name": "Park Out",
+      "category": "puzzle",
+      "description": "Park Out is a game where you control a car and try to drive out of park."
+    },
+    {
+      "id": "chicken-merge",
+      "name": "Chicken Merge",
+      "category": "puzzle",
+      "description": "Chicken Merge is a game where you combine chickens to create new breeds and expand your farm."
+    },
+    {
+      "id": "stickman-hook",
+      "name": "Stickman Hook",
+      "category": "arcade",
+      "description": "Stickman Hook is a game where you control a stickman who can hook objects and swing them to clear obstacles."
+    },
+    {
+      "id": "adventure-drivers",
+      "name": "Adventure Drivers",
+      "category": "racing",
+      "description": "Adventure Drivers is a racing game where you drive through different tracks and collect coins."
+    },
+    {
+      "id": "drive-mad",
+      "name": "Drive Mad",
+      "category": "racing",
+      "description": "Drive Mad is a car game where you drive on a track filled with obstacles. Your aim is to reach the finish line in one piece."
+    },
+    {
+      "id": "roper",
+      "name": "Roper",
+      "category": "adventure",
+      "description": "Roper is a fun and addictive endless runner game where you control a character who can jump, slide, and roll to avoid obstacles and collect coins."
+    },
+    {
+      "id": "subway-surfers",
+      "name": "Subway Surfers",
+      "category": "adventure",
+      "description": "Subway Surfers is a fun and addictive endless runner game where you play as a train robber trying to escape from the police. You control a character who can jump, slide, and perform various tricks to avoid obstacles and catch the train. The game features colorful graphics, catchy music, and a variety of levels and challenges to keep you entertained for hours."
+    },
+    {
+      "id": "ball-sort-puzzle",
+      "name": "Ball Sort Puzzle",
+      "category": "puzzle",
+      "description": "Ball Sort Puzzle is a challenging and addictive puzzle game where you have to sort balls of different colors into the correct order. You can move the balls around using the arrow keys and have to think strategically to solve the puzzle. The game features a variety of levels and challenges to keep you entertained for hours."
+    },
+    {
+      "id": "8ball-pool",
+      "name": "8 Ball Pool",
+      "category": "sports",
+      "description": "8 Ball Pool is a billiards game played on a rectangular table with six pockets (four corners and two sides) and 16 balls: one cue ball (white) and 15 object balls, including seven solid-colored balls (numbered 1-7), seven striped balls (numbered 9-15), and the black 8 ball.."
+    },
+    {
+      "id": "awesome-tanks2",
+      "name": "Awesome Tanks 2",
+      "category": "arcade",
+      "description": "Awesome Tanks 2 is a tank battle game where you control a tank and have to destroy the enemy tanks by shooting them. The game features a variety of tanks with different weapons and abilities, and you can customize your tank with various upgrades. The game also features a variety of levels and challenges to keep you entertained for hours."
+    },
+    {
+      "id": "ballistic",
+      "name": "Ballistic",
+      "category": "puzzle",
+      "description": "Ballistic is a puzzle game where you have to think strategically to solve the puzzle. You control a ball and have to guide it through a series of obstacles to reach the goal. The game features a variety of levels and challenges to keep you entertained for hours."
+    },
+    {
+      "id": "basket-and-ball",
+      "name": "Basket and Ball",
+      "category": "sports",
+      "description": "Basket and Ball is a sports game where you have to shoot the ball into the basket. The game features a variety of levels and challenges to keep you entertained for hours."
+    },
+    {
+      "id": "biker-street",
+      "name": "Biker Street",
+      "category": "racing",
+      "description": "Bike Fighting Stunt Highway Game is a 3D motorcycle racing game with intense battles, challenging tracks, and power-ups."
+    },
+    {
+      "id": "swingo",
+      "name": "SwinGo",
+      "category": "arcade",
+      "description": "Swingo is an arcade game that combines the platform and action genres into one fun package. You control a cute bouncy character that can only move around using a grappling hook."
+    },
+    {
+      "id": "3pandas-in-japan",
+      "name": "3 Pandas in Japan",
+      "category": "adventure",
+      "description": "The Pandas are back are ready to escape another beautiful country.Help the pandas escape from Japan in one piece."
+    },
+    {
+      "id": "wiggle",
+      "name": "Wiggle",
+      "category": "arcade",
+      "description": "You are a tiny worm. Well, not really, but in Wiggle you play as a cute little invertebrate who is fleeing from the flood and has to cover as much distance as possible. And as if life isn't hard enough already, there are many dangerous obstacles on your way."
+    },
+    {
+      "id": "hoop-royale",
+      "name": "Hoop Royale",
+      "category": "arcade",
+      "description": "Hoop Royale is a casual, physics-based arcade game where the primary objective is to successfully throw a hoop around a moving ball, essentially hooping it, by strategically aiming and timing your throws to score points; the game often features a competitive multiplayer mode where players try to outscore each other by making the most hoops within a set time limit."
+    },
+    {
+      "id": "flappy-bird",
+      "name": "Flappy Bird",
+      "category": "arcade",
+      "description": "Flappy Bird is an arcade-style game in which the player controls the bird Faby, which moves persistently to the right. The player is tasked with navigating Faby through pairs of pipes that have equally sized gaps placed at random heights. Faby automatically descends and only ascends when the player taps the touchscreen. Each successful pass through a pair of pipes awards the player one point. Colliding with a pipe or the ground ends the gameplay. During the game over screen, the player is awarded a bronze medal if they reached ten or more points, a silver medal from twenty points, a gold medal from thirty points, and a platinum medal from forty points."
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "category": "arcade",
+      "description": "Minecraft is a 3D sandbox game that has no required goals to accomplish, allowing players a large amount of freedom in choosing how to play the game. However, there is an achievement system, known as 'advancements' in the Java Edition of the game, 'trophies' on the PlayStation ports, and 'achievements' in Bedrock Edition and the Xbox ports."
+    },
+    {
+      "id": "bomberman",
+      "name": "Bomberman",
+      "category": "arcade",
+      "description": "Bomberman is a multiplayer action game in which players control characters that drop bombs to destroy walls and other players. The game is known for its simple gameplay and fast-paced action. Players can also create custom maps and share them with others."
+    },
+    {
+      "id": "arcade-car-racing",
+      "name": "Arcade Car Racing",
+      "category": "racing",
+      "description": "Arcade Car Racing Game is a classic car racing game that features fast-paced gameplay and a variety of different tracks to choose from. Players can compete against the computer or other players online, and the game includes a variety of different cars to choose from. The game is known for its simple controls and addictive gameplay."
+    },
+    {
+      "id": "ultimate-car-driving",
+      "name": "Ultimate Car Driving",
+      "category": "racing",
+      "description": "Ultimate Car Driving is a racing game that features a variety of different cars and tracks to choose from. Players can compete against the computer or other players online, and the game includes a variety of different cars to choose from. The game is known for its realistic graphics and realistic physics."
+    },
+    {
+      "id": "extreme-motorbike-driving",
+      "name": "Extreme Motorbike Driving",
+      "category": "racing",
+      "description": "Extreme Motorbike Driving is a racing game that features a variety of different motorbikes and tracks to choose from. Players can compete against the computer or other players online, and the game includes a variety of different motorbikes to choose from. The game is known for its realistic graphics and realistic physics."
+    },
+    {
+      "id": "1v1.lol",
+      "name": "1v1.lol",
+      "category": "action",
+      "description": "1v1.lol is a multiplayer online battle arena game that features two players competing against each other in a variety of different game modes. Players can choose from a variety of different champions to play as, and the game includes a variety of different maps to choose from. The game is known for its fast-paced gameplay and competitive nature."
+    },
+    {
+      "id": "2048",
+      "name": "2048",
+      "category": "puzzle",
+      "description": "2048 is a puzzle game that involves combining numbers on a grid to reach the number 2048. Players can swipe the screen to move the numbers around, and the game includes a variety of different levels to choose from. The game is known for its simple gameplay and addictive nature."
+    },
+    {
+      "id": "among-us",
+      "name": "Among Us",
+      "category": "action",
+      "description": "Among Us is a social deduction game that involves players working together to complete tasks while one or more impostors try to sabotage the crew. Players can choose from a variety of different characters to play as, and the game includes a variety of different maps to choose from. The game is known for its fast-paced gameplay and competitive nature."
+    },
+    {
+      "id": "pacman",
+      "name": "Pacman",
+      "category": "arcade",
+      "description": "Pacman is a classic arcade game that involves the player controlling a character who must eat dots while avoiding ghosts. Players can choose from a variety of different levels to play, and the game includes a variety of different power-ups to use. The game is known for its simple gameplay and addictive nature."
+    },
+    {
+      "id": "minesweeper",
+      "name": "Minesweeper",
+      "category": "puzzle",
+      "description": "Minesweeper is a classic puzzle game that involves the player finding hidden mines on a grid. Players can choose from a variety of different levels to play, and the game includes a variety of different difficulty levels. The game is known for its simple gameplay and addictive nature."
+    },
+    {
+      "id": "z-type",
+      "name": "Z-Type",
+      "category": "arcade",
+      "description": "Z-Type is a classic shoot 'em up arcade game that involves the player controlling a spaceship and shooting down enemies. Players can choose from a variety of different levels to play, and the game includes a variety of different power-ups to use. The game is known for its fast-paced gameplay and addictive nature."
+    },
+    {
+      "id": "red-alert2",
+      "name": "Red Alert 2",
+      "category": "strategy",
+      "description": "Red Alert 2 is a real-time strategy game that involves the player commanding a military force to defend their country from enemy invasion. Players can choose from a variety of different levels to play, and the game includes a variety of different units and weapons to use. The game is known for its complex gameplay and addictive nature."
+    }
+  ]
+}
