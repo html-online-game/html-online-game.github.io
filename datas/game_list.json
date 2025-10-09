@@ -10,6 +10,12 @@
     { "id": "strategy", "name": "Strategy", "icon": "🧠" }
   ],
   "games": [
+     {
+      "id": "toy-defense",
+      "name": "Toy Defense",
+      "category": "strategy",
+      "description": "Toy Defense is a fun and challenging tower defense game where you defend your toy soldiers from waves of enemies. Upgrade your defenses and strategize to defeat each wave and save your toys."
+    },
     {
       "id": "super-liquid-soccer",
       "name": "Super Liquid Soccer",
