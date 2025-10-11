@@ -9,10 +9,10 @@
     <meta name="author" content="Seiri" />
     <meta name="robots" content="index, follow" />
     <meta name="theme-color" content="#1a1a1a" />
-    <link rel="stylesheet" href="https://html-online-game.github.io/assets/css/style.css" />
-    <link rel="icon" href="https://html-online-game.github.io/favicon.ico" />
-    <link rel="apple-touch-icon" href="https://html-online-game.github.io/favicon.ico" />
-    <title>Online Game Site</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="icon" href="./favicon.ico" />
+    <link rel="apple-touch-icon" href="./favicon.ico" />
+    <title>Online Game Site - 404 page not found</title>
   </head>
   <!-- Google tag (gtag.js) -->
   <script
@@ -29,18 +29,31 @@
   </script>
   <body>
     <header>
-      <h1>Online Game Site</h1>
+      <div class="container">
+        <div class="header-content">
+          <h1>🎮 Online Game Site</h1>
+          <button class="menu-toggle" id="menuToggle">
+            <span class="hamburger">☰</span>
+          </button>
+          <nav id="mobileNav">
+            <a href="/">🏠 Home</a>
+            <a href="/policy.html" class="active">📋 Policy</a>
+          </nav>
+        </div>
+      </div>
     </header>
-    <nav>
-      <a href="https://html-online-game.github.io/">Home</a>
-      <a href="https://html-online-game.github.io/policy.html">Policy</a>
-    </nav>
-    <main class="not-found-container">
-      <h2>404</h2>
-      <div>Page not found.</div>
-    </main>
+    <div class="container">
+      <div class="main-layout">
+        <main class="game-container">
+          <h3>404</h3>
+          <h3>Page not found.</h3>
+        </main>
+      </div>
+    </div>
     <footer>
-      <p>&copy; 2025 Online Game Site. All rights reserved.</p>
+      <div class="container">
+        <p>&copy; 2025 Online Game Site. All rights reserved.</p>
+      </div>
     </footer>
   </body>
 </html>
