@@ -10,7 +10,19 @@
     { "id": "strategy", "name": "Strategy", "icon": "🧠" }
   ],
   "games": [
-     {
+    {
+      "id": "burrito-bison",
+      "name": "Burrito Bison",
+      "category": "action",
+      "description":  "Burrito Bison is a action game where you control a bison named Burrito."
+    },
+    {
+      "id": "hoggy2",
+      "name": "Hoggy 2",
+      "category": "puzzle",
+      "description": "Hoggy 2 is a game where you control a pig named Hoggy and fight against waves of enemies."
+    },
+    {
       "id": "toy-defense",
       "name": "Toy Defense",
       "category": "strategy",
@@ -141,6 +153,12 @@
       "name": "8 Ball Pool",
       "category": "sports",
       "description": "8 Ball Pool is a billiards game played on a rectangular table with six pockets (four corners and two sides) and 16 balls: one cue ball (white) and 15 object balls, including seven solid-colored balls (numbered 1-7), seven striped balls (numbered 9-15), and the black 8 ball.."
+    },
+    {
+      "id": "awesome-tanks",
+      "name": "Awesome Tanks ",
+      "category": "arcade",
+      "description": "Awesome Tanks is a tank battle game where you control a tank and have to destroy the enemy tanks by shooting them. The game features a variety of tanks with different weapons and abilities, and you can customize your tank with various upgrades. The game also features a variety of levels and challenges to keep you entertained for hours."
     },
     {
       "id": "awesome-tanks2",
