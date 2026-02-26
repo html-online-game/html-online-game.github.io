@@ -1,22 +1,42 @@
-# HTML Online Game
+﻿# Online Game Site (Next.js + TypeScript)
 
-This repository contains a  HTML online game designed to showcase how to use HTML, CSS, and JavaScript to create a basic interactive experience.
+This project has been migrated from static HTML/JS to **Next.js + TypeScript**.
 
-## Game Features
+## Tech Stack
 
-- Simple click-to-play gameplay
-- Built using HTML, CSS, and JavaScript
+- Next.js (App Router)
+- TypeScript
+- React
 
-## How to Play the Game
+## Development
 
-You can play game by access url:
-[https://html-online-game.github.io/](https://html-online-game.github.io)
+```bash
+npm install
+npm run dev
+```
 
-If you find any issues or have any improvement ideas, we welcome your contributions! You can:
+Open `http://localhost:3000`.
 
-- Submit an issue to report bugs or suggest improvements.
-- Submit a pull request to fix bugs or add new features.
+## Build / Export
 
-## License
+```bash
+npm run build
+```
 
-This project is licensed under the [MIT License](LICENSE).
+This repo is configured with `output: "export"`, so static files are generated in `out/`.
+
+## Routes
+
+- `/` Home game list
+- `/policy` Privacy policy
+- `not-found` Custom 404 page
+
+## Static Assets
+
+All static assets are served from `public/`:
+
+- `public/assets`
+- `public/datas/game_list.json`
+- `public/favicon.ico`
+- `public/ads.txt`
+- site verification files
