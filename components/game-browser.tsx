@@ -74,17 +74,21 @@ export default function GameBrowser({ categories, games }: GameBrowserProps) {
             >
               <div className="game-thumbnail">
                 <img
-                  src={`/assets/images/${game.id}.png`}
+                  src={`/images/${game.id}.png`}
                   alt={game.name}
                   loading="lazy"
                 />
               </div>
               <div className="game-title">{game.name}</div>
-              <div className="game-description line-clamp-3" title={game.description}>
+              <div
+                className="game-description line-clamp-3"
+                title={game.description}
+              >
                 {game.description}
               </div>
               <div className="game-category">
-                {categories.find((cat) => cat.id === game.category)?.name ?? game.category}
+                {categories.find((cat) => cat.id === game.category)?.name ??
+                  game.category}
               </div>
             </article>
           ))
