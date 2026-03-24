@@ -11,6 +11,18 @@
   ],
   "games": [
     {
+      "id":"kart-fight-io",
+      "name": "Kart Fight.io",
+      "category": "action",
+      "description": "Kart Fight.io is a action game that kart fight with ohters."
+    },
+    {
+      "id": "protektor",
+      "name": "Protektor",
+      "category": "action",
+      "description":  "Protektor is a action game."
+    },
+    {
       "id": "burrito-bison",
       "name": "Burrito Bison",
       "category": "action",
