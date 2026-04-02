@@ -11,6 +11,12 @@
   ],
   "games": [
     {
+      "id": "worlds-within-worlds",
+      "name": "worlds within worlds",
+      "category": "action",
+      "description": "Worlds Within Worlds is a action game where you control a character and explore a world."
+    },
+    {
       "id":"kart-fight-io",
       "name": "Kart Fight.io",
       "category": "action",
