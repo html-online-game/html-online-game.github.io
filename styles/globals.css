@@ -6,7 +6,7 @@
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
   color: #ffffff;
   line-height: 1.6;
   min-height: 100vh;
@@ -149,7 +149,7 @@ nav a:hover {
   padding: 12px 20px;
   border-radius: 25px;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: background-color 0.2s ease, transform 0.2s ease;
   font-size: 0.9rem;
   font-weight: 500;
 }
@@ -161,9 +161,9 @@ nav a:hover {
 }
 
 .category-btn.active {
-  background: linear-gradient(45deg, #e94560, #f39c12);
+  background: #e94560;
   border-color: #e94560;
-  box-shadow: 0 5px 15px rgba(233, 69, 96, 0.4);
+  box-shadow: 0 3px 10px rgba(233, 69, 96, 0.4);
 }
 
 /* Game Count */
@@ -248,16 +248,14 @@ nav a:hover {
 }
 
 .game-card {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.08);
   border-radius: 15px;
   padding: 20px;
   text-align: center;
-  transition: all 0.3s ease;
+  transition: transform 0.2s ease, background-color 0.2s ease;
   border: 1px solid rgba(255, 255, 255, 0.1);
   cursor: pointer;
   position: relative;
-  opacity: 1;
-  transform: scale(1);
 }
 
 .game-card.hidden {
@@ -271,20 +269,21 @@ nav a:hover {
 }
 
 .game-card:hover {
-  transform: translateY(-5px);
-  background: rgba(233, 69, 96, 0.1);
-  box-shadow: 0 10px 25px rgba(233, 69, 96, 0.3);
+  transform: translateY(-3px);
+  background: rgba(233, 69, 96, 0.15);
+  box-shadow: 0 5px 15px rgba(233, 69, 96, 0.3);
   border-color: rgba(233, 69, 96, 0.5);
 }
 
 .game-thumbnail {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: #2a2a4a;
   border-radius: 10px;
   margin-bottom: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 3rem;
+  overflow: hidden;
 }
 
 .game-thumbnail img {
@@ -400,11 +399,14 @@ footer p {
 
 /* Floating elements animation */
 .floating {
+  transition: transform 0.3s ease;
+}
+
+.floating:hover {
   animation: floating 3s ease-in-out infinite;
 }
 
 @keyframes floating {
-
   0%,
   100% {
     transform: translateY(0px);
@@ -413,6 +415,34 @@ footer p {
   50% {
     transform: translateY(-10px);
   }
+}
+
+/* Load More Button */
+.load-more-container {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.load-more-btn {
+  background: linear-gradient(45deg, #e94560, #f39c12);
+  border: none;
+  color: white;
+  padding: 15px 40px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 15px rgba(233, 69, 96, 0.3);
+}
+
+.load-more-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(233, 69, 96, 0.5);
+}
+
+.load-more-btn:active {
+  transform: translateY(0);
 }
 
 @media (max-width: 992px) {
