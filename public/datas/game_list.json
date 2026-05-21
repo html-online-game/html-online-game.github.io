@@ -11,6 +11,12 @@
   ],
   "games": [
     {
+      "id": "rocking-sky-trip",
+      "name": "Rocking Sky Trip",
+      "category": "action",
+      "description": "Rocking Sky Trip is a fast-paced 3D endless running game where you guide an automatically rolling ball through challenging obstacle courses."
+    },
+    {
       "id": "worlds-within-worlds",
       "name": "worlds within worlds",
       "category": "action",
