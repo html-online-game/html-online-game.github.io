@@ -66,6 +66,16 @@ jobs:
         with:
           path: ./out
 
+      # This step is optional and can be used to deploy the site to GitHub Pages
+      - name: Generate sitemap
+        id: sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: https://bili-anipix.github.io/
+          path-to-root: out/
+          exclude-paths: google6c1815b2c680be78.html yandex_b71d39d2ae8274e7.html
+          sitemap-path: out/sitemap.xml
+
   # Deployment job
   deploy:
     environment:
