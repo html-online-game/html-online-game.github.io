@@ -67,7 +67,7 @@ jobs:
         id: sitemap
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: https://bili-anipix.github.io/
+          base-url-path: https://html-online-game.github.io/
           path-to-root: out/
           exclude-paths: google6c1815b2c680be78.html yandex_b71d39d2ae8274e7.html
           sitemap-path: out/sitemap.xml
