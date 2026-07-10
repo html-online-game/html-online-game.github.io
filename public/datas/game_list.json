@@ -10,6 +10,24 @@
     { "id": "strategy", "name": "Strategy", "icon": "🧠" }
   ],
   "games": [
+     {
+      "id": "icy-purple-head",
+      "name": "Icy Purple Head",
+      "category": "puzzle",
+      "description": "Icy Purple Head is a challenging puzzle game where you must guide a small creature through a frozen landscape, collecting ice crystals and avoiding obstacles."
+    },
+     {
+      "id": "tunnelrush2",
+      "name": "Tunnelrush2",
+      "category": "arcade",
+      "description": "Tunnelrush2 is a fast-paced, action-packed arcade game where you control a small creature and must navigate through a series of tunnels filled with obstacles and challenges."
+    },
+     {
+      "id": "piano-tiles",
+      "name": "Piano Tiles",
+      "category": "arcade",
+      "description": "Piano Tiles is a simple yet addictive arcade game where you must tap the tiles in time to the music, avoiding the falling tiles and trying to reach the highest score possible."
+    },
     {
       "id": "rocking-sky-trip",
       "name": "Rocking Sky Trip",
