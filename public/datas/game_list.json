@@ -1,34 +1,72 @@
 {
   "categories": [
-    { "id": "all", "name": "All Games", "icon": "🎮" },
-    { "id": "action", "name": "Action", "icon": "⚔️" },
-    { "id": "puzzle", "name": "Puzzle", "icon": "🧩" },
-    { "id": "racing", "name": "Racing", "icon": "🏎️" },
-    { "id": "adventure", "name": "Adventure", "icon": "🌟" },
-    { "id": "arcade", "name": "Arcade", "icon": "🕹️" },
-    { "id": "sports", "name": "Sports", "icon": "⚽" },
-    { "id": "strategy", "name": "Strategy", "icon": "🧠" }
+    {
+      "id": "all",
+      "name": "All Games",
+      "icon": "🎮"
+    },
+    {
+      "id": "action",
+      "name": "Action",
+      "icon": "⚔️"
+    },
+    {
+      "id": "puzzle",
+      "name": "Puzzle",
+      "icon": "🧩"
+    },
+    {
+      "id": "racing",
+      "name": "Racing",
+      "icon": "🏎️"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure",
+      "icon": "🌟"
+    },
+    {
+      "id": "arcade",
+      "name": "Arcade",
+      "icon": "🕹️"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "⚽"
+    },
+    {
+      "id": "strategy",
+      "name": "Strategy",
+      "icon": "🧠"
+    }
   ],
   "games": [
-     {
+    {
+      "id": "geometry-jump-sketchy",
+      "name": "Geometry Jump Sketchy",
+      "category": "action",
+      "description": "Geometry Jump Sketchy is a challenging puzzle game where you must guide a ball through a series of geometric shapes and obstacles."
+    },
+    {
       "id": "elemental-tiles",
       "name": "Elemental Tiles",
       "category": "puzzle",
       "description": "Elemental Tiles is a captivating puzzle game where you must match and combine tiles of different elements to form powerful elemental combinations."
-     },
-     {
+    },
+    {
       "id": "icy-purple-head",
       "name": "Icy Purple Head",
       "category": "puzzle",
       "description": "Icy Purple Head is a challenging puzzle game where you must guide a small creature through a frozen landscape, collecting ice crystals and avoiding obstacles."
     },
-     {
+    {
       "id": "tunnelrush2",
       "name": "Tunnelrush2",
       "category": "arcade",
       "description": "Tunnelrush2 is a fast-paced, action-packed arcade game where you control a small creature and must navigate through a series of tunnels filled with obstacles and challenges."
     },
-     {
+    {
       "id": "piano-tiles",
       "name": "Piano Tiles",
       "category": "arcade",
@@ -47,7 +85,7 @@
       "description": "Worlds Within Worlds is a action game where you control a character and explore a world."
     },
     {
-      "id":"kart-fight-io",
+      "id": "kart-fight-io",
       "name": "Kart Fight.io",
       "category": "action",
       "description": "Kart Fight.io is a action game that kart fight with ohters."
@@ -56,13 +94,13 @@
       "id": "protektor",
       "name": "Protektor",
       "category": "action",
-      "description":  "Protektor is a action game."
+      "description": "Protektor is a action game."
     },
     {
       "id": "burrito-bison",
       "name": "Burrito Bison",
       "category": "action",
-      "description":  "Burrito Bison is a action game where you control a bison named Burrito."
+      "description": "Burrito Bison is a action game where you control a bison named Burrito."
     },
     {
       "id": "hoggy2",
