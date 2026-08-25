@@ -11,6 +11,12 @@
   ],
   "games": [
      {
+      "id": "elemental-tiles",
+      "name": "Elemental Tiles",
+      "category": "puzzle",
+      "description": "Elemental Tiles is a captivating puzzle game where you must match and combine tiles of different elements to form powerful elemental combinations."
+     },
+     {
       "id": "icy-purple-head",
       "name": "Icy Purple Head",
       "category": "puzzle",
