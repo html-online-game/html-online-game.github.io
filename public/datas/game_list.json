@@ -43,6 +43,18 @@
   ],
   "games": [
     {
+      "id": "scrambled-eggs",
+      "name": "Scrambled Eggs",
+      "category": "puzzle",
+      "description": "Scramble the eggs and try to make the perfect omelette!"
+    },
+    {
+      "id": "sonic-revert",
+      "name": "Sonic Revert",
+      "category": "racing",
+      "description": "Sonic Revert is a thrilling racing game where you must race against the clock to complete the course."
+    },
+    {
       "id": "geometry-jump-sketchy",
       "name": "Geometry Jump Sketchy",
       "category": "action",
